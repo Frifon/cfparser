@@ -16,7 +16,7 @@
 #include <sstream>
 #include <unordered_set>
 #include <unordered_map>
-#include <assert.h> //
+#include <assert.h>
 
 #define mp make_pair
 #define pb push_back
